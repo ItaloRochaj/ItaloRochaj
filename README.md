@@ -1,5 +1,5 @@
 👋🏻 Olá, eu sou Ítalo Rocha!   
-👩🏼‍💻 Sou Desenvolvedor FullStack. 
+👩🏼‍💻 Sou Desenvolvedor FullStack.  
 🎓 Cursando Sistemas de Informação. 
 
 ## Sobre Mim
