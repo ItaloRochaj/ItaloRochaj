@@ -1,9 +1,9 @@
-👋🏻 Olá, eu sou Ítalo Rocha!   
-🧑🏻‍💻 Sou Desenvolvedor Full-Stack.  
-🎓 Cursando Sistemas de Informação. 
+👋🏻 Hello, I’m Ítalo Rocha!  
+🧑🏻‍💻 I’m a Full-Stack Developer.  
+🎓 Currently studying Information Systems.  
 
-## Sobre Mim
-Meu primeiro “Hello World” foi na adolescência quando tive meu primeiro contato com HTML e CSS no Notepad++. Hoje estudo programação há cerca de 3 anos. Sou apaixonado pelo unniverso tech, no meu tempo livre gosto de viajar/passear, ler, assistir filmes/séries/documentários e jogar games.
+## About Me  
+My first “Hello World” was during my teenage years when I had my first contact with HTML and CSS on Notepad++. I’ve been studying programming for about 3 years now. I’m passionate about the tech universe. In my free time, I enjoy traveling, reading, watching movies/series/documentaries, and playing games.
 
 ## Habilidades Técnicas  
 | Desenvolvimento Web | Linguagens de Programação | Frameworks e Bibliotecas | Banco de Dados | Ferramentas e Tecnologias |
