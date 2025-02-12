@@ -1,6 +1,6 @@
 <a href="https://www.github.com/italorochaj/"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=header"/></a>
 
-<h2 align="center">Olá, sou Italo Rocha! 👋🏻</h2><a href="https://www.github.com/italorochaj/"><img align="right" alt="gato no notebook" src="https://github.com/ItaloRochaj/ItaloRochaj/blob/main/img/cat.gif"></a>
+<h2 align="center">Olá, sou Italo Rocha! 👋🏻</h2><a href="https://www.github.com/italorochaj/"><img align="right" alt="gato no notebook" src="https://github.com/ItaloRochaj/ItaloRochaj/blob/main/img/cat.gif"></a><br/><br/><br/>
 🌍 Apaixonado por Tecnologia  
 
 🧑🏻‍💻 Full-Stack Development    
@@ -8,7 +8,6 @@
 ⚡ Gosto de natureza, pets, viagens, lugares, livros, universo tech, e jogar games. 
 <br/>  
 <br/>  
-<br/>
 <br/>
 
 <h2 align="center">📫 Conecte-se comigo!</h2>  
