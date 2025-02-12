@@ -32,52 +32,52 @@
 <table><tr><td valign="top" width="33%">
 <h2 align="center">Frontend</h2>
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5"><img height="30" width="30" src="https://cdn.simpleicons.org/html5" alt="HTML5"/></a>
-<a href="https://www.w3schools.com/css/"><img height="30" width="30" src="https://cdn.simpleicons.org/css3" alt="CSS3"/></a>  
-<a href="https://www.javascript.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/javascript" alt="JavaScript"/></a> 
-<a href="https://jquery.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/jquery" alt="jQuery"/></a>
-<a href="https://angular.dev/"><img height="30" width="30" src="https://cdn.simpleicons.org/angular/dc143c"></a>
-<a href="https://www.typescriptlang.org"><img height="30" width="30" src="https://cdn.simpleicons.org/typescript" alt="TypeScript"/></a>
-<a href="https://laravel.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/laravel" alt="Laravel"/></a>  
-<a href="https://vuejs.org/"><img height="30" width="30" src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js"/></a>    
-<a href="https://www.tailwindcss.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/tailwindcss" alt="Tailwind CSS"/></a> 
+<a href="https://en.wikipedia.org/wiki/HTML5"><img src="https://skillicons.dev/icons?i=html" alt="HTML5"/></a>
+<a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"/></a>  
+<a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/></a>
+ <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/></a>
+<a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery"/></a>
+<a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/></a>
+<a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular"></a>
+<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel"/></a>
+<a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js"/></a>    
+<a href="https://www.tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS"/></a> 
 </div>
 </td><td valign="top" width="33%">
 
 <h2 align="center">Backend</h2>
 <div align="center">   
-<a href="https://www.java.com/"><img height="40" width="40" src="https://upload.wikimedia.org/wikipedia/pt/3/30/Java_programming_language_logo.svg" alt="Java"/></a> 
-<a href="https://spring.io/"><img  height="30" width="30" src="https://cdn.simpleicons.org/spring" alt="Spring"/></a>    
-<a href="https://spring.io/projects/spring-boot"><img height="30" width="30" src="https://cdn.simpleicons.org/springboot" alt="Spring Boot"/></a>     
-<a href="https://nodejs.org/"><img height="30" width="30" src="https://cdn.simpleicons.org/nodedotjs" alt="Node.js"/></a>   
-<a href="https://www.python.org/"><img height="30" width="30" src="https://cdn.simpleicons.org/python" alt="Python"/></a>  
-<a href="https://www.mysql.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/mysql" alt="MySQL"/></a>  
-<a href="https://www.mongodb.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/mongodb" alt="MongoDB"/></a> 
-<a href="https://www.postgresql.org/"><img height="30" width="30" src="https://cdn.simpleicons.org/postgresql" alt="PostgreSQL"/></a>  
-<a href="https://www.php.net/"><img height="30" width="30" src="https://cdn.simpleicons.org/php" alt="PHP"/></a>  
-<a href="https://flask.palletsprojects.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/flask" alt="Flask"/></a>
-<a href="https://www.nginx.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/nginx" alt="Nginx"/></a>  
-<a href="https://www.linux.org/"><img height="30" width="30" src="https://cdn.simpleicons.org/linux" alt="Linux"/></a>   
-<a href="https://www.r-project.org/"><img height="30" width="30" src="https://cdn.simpleicons.org/r" alt="R"/></a> 
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" alt="Java"/></a> 
+<a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a>        
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>   
+<a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="npm"/></a>   
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
+<a href="https://dotnet.microsoft.com/pt-br/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></a>
+<a href="https://dotnet.microsoft.com/pt-br/"><img src="https://skillicons.dev/icons?i=dotnet" alt=".Net"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>  
+<a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a> 
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/></a>  
+<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP"/></a>  
+<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"/></a>
+<a href="https://www.nginx.com/"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx"/></a>     
+<a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" alt="R"/></a> 
 </div>
 </td><td valign="top" width="33%">
 
 <h2 align="center">DevTools</h2>
 <div align="center">  
-<a href="https://www.docker.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/docker" alt="Docker" /></a>  
-<a href="https://kubernetes.io/"><img height="30" width="30" src="https://cdn.simpleicons.org/kubernetes" alt="Kubernetes" /></a>  
-<a href="https://aws.amazon.com/pt/?nc2=h_lg"><img height="30" width="30" src="https://cdn.simpleicons.org/amazonwebservices" alt="AWS" /></a> 
-<a href="https://www.heroku.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/heroku" alt="Heroku" /></a>  
-<a href="https://www.apachefriends.org/"><img height="30" width="30" src="https://cdn.simpleicons.org/xampp" alt="XAMPP" /></a>  
-<a href="https://git-scm.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/git" alt="Git" /></a>  
-<a href="https://github.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/github" alt="GitHub" /></a>   
-<a href="https://about.gitlab.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/gitlab" alt="GitLab" /></a>
-<a href="https://www.figma.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/figma" alt="Figma" /></a>     
-<a href="https://trello.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/trello" alt="Trello" /></a>
-<a href="https://slack.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/slack" alt="Slack" /></a>
-<a href="https://www.notion.so/"><img height="30" width="30" src="https://cdn.simpleicons.org/notion" alt="Notion" /></a> 
-<a href="https://github.com/features/copilot"><img height="30" width="30" src="https://cdn.simpleicons.org/githubcopilot" alt="GitHub Copilot" /></a>
-<a href="https://openai.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/openai" alt="OpenAI" /></a>
+<a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>  
+<a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>  
+<a href="https://aws.amazon.com/pt/?nc2=h_lg"><img src="https://skillicons.dev/icons?i=amazonwebservices" alt="AWS" /></a> 
+<a href="https://www.heroku.com/"><img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" /></a>  
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>  
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>   
+<a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>     
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="vs code" /></a>
+ <a href="https://www.jetbrains.com/pt-br/idea/"><img src="https://skillicons.dev/icons?i=idea" alt="intelij" /></a>
+<a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" /></a>
+<a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
 </div>
 </td></tr>
 </table> 
