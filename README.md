@@ -1,6 +1,6 @@
 <a href="https://www.github.com/italorochaj/"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=header"/></a>
 
-<h2>Olá, sou Italo Rocha! 👋🏻</h2><a href="https://www.github.com/italorochaj/"><img align="right" alt="gato no notebook" src="https://github.com/ItaloRochaj/ItaloRochaj/blob/main/img/cat.gif"></a>
+<h2 align="center">Olá, sou Italo Rocha! 👋🏻</h2><a href="https://www.github.com/italorochaj/"><img align="right" alt="gato no notebook" src="https://github.com/ItaloRochaj/ItaloRochaj/blob/main/img/cat.gif"></a>
 🌍 Apaixonado por Tecnologia  
 
 🧑🏻‍💻 Full-Stack Development    
@@ -11,22 +11,22 @@
 <br/>
 <br/>
 
-## 📫 Conecte-se comigo!  
+<h2 align="center">📫 Conecte-se comigo!</h2>  
 <div align="center">
 <a href="https://github.com/ItaloRochaj">
-<img src="https://img.shields.io/badge/github-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
+<img src="https://img.shields.io/badge/github-1451da?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a>
 <a href="https://www.linkedin.com/in/italorochaj/">
-<img src="https://img.shields.io/badge/linkedin-%23121011?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+<img src="https://img.shields.io/badge/linkedin-1451da?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
 <a href="https://www.instagram.com/italocodes/" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-%23121011?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/></a>
+<img src="https://img.shields.io/badge/Instagram-1451da?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram"/></a>
 <a href="https://dev.to/italorochaj">
-<img src="https://img.shields.io/badge/dev.to-%23121011?style=for-the-badge&logo=dev.to&logoColor=whitee" alt="devto"/></a>
+<img src="https://img.shields.io/badge/dev.to-1451da?style=for-the-badge&logo=dev.to&logoColor=whitee" alt="devto"/></a>
 <a href="https://www.kaggle.com/italorochaj">
-<img src="https://img.shields.io/badge/Kaggle-%23121011?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/></a>
-</div>  
+<img src="https://img.shields.io/badge/Kaggle-1451da?style=for-the-badge&logo=kaggle&logoColor=white" alt="kaggle"/></a>
+</div>
 <br/>  
 
-## 🛠️ Habilidades Técnicas
+<h2 align="center">🛠️ Habilidades Técnicas</h2>
 <table><tr><td valign="top" width="33%">
 <h2 align="center">Frontend</h2>
 <div align="center">  
@@ -76,33 +76,37 @@
 <a href="https://github.com/features/copilot"><img height="30" width="30" src="https://cdn.simpleicons.org/githubcopilot" alt="GitHub Copilot" /></a>
 <a href="https://openai.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/openai" alt="OpenAI" /></a>
 </div>
-</td></tr></table>   
+</td></tr>
+</table> 
+<br/>
 
-## 🌐 Perfil de Plataformas
-<p>Meus certificados estão no perfil púiblico de cada plataforma. </p>
+<h2 align="center">🌐 Perfil de Plataformas</h2>
+<p align="center">Meus certificados estão no perfil púiblico de cada plataforma. </p>
 <div align="center">
 <a href="https://learn.microsoft.com/pt-br/users/me/">
-<img src="https://img.shields.io/badge/Microsoft_Learn-%23121011?style=for-the-badge&logo=microsoft&logoColor=white" alt="microsoft learn"/></a>
+<img src="https://img.shields.io/badge/Microsoft_Learn-1451da?style=for-the-badge&logo=microsoft&logoColor=white" alt="microsoft learn"/></a>
 <a href="https://www.credly.com/users/italo-rocha.b1ee0390/edit">
-<img src="https://img.shields.io/badge/Credly-%23121011?style=for-the-badge&logo=credly&logoColor=white" alt="credly"/></a>
+<img src="https://img.shields.io/badge/Credly-1451da?style=for-the-badge&logo=credly&logoColor=white" alt="credly"/></a>
 <a href="https://www.coursera.org/account-profile">
-<img src="https://img.shields.io/badge/Coursera-%23121011?style=for-the-badge&logo=coursera&logoColor=white" alt="coursera"/></a>
-<a href="hhttps://www.dio.me/users/ITALOROCHAJ" target="_blank">
-<img src="https://img.shields.io/badge/Dio.me-%23121011?style=for-the-badge&logo=dio&logoColor=white" alt="Dio.me"/></a>  
+<img src="https://img.shields.io/badge/Coursera-1451da?style=for-the-badge&logo=coursera&logoColor=white" alt="coursera"/></a>
+<a href="hhttps://www.dio.me/users/ITALOROCHAJ">
+<img src="https://img.shields.io/badge/Dio.me-1451da?style=for-the-badge&logo=dio&logoColor=white" alt="Dio.me"/></a>  
 <a href="https://cursos.alura.com.br/user/italorochaj">
-<img src="https://img.shields.io/badge/Alura.com.br-%23121011?style=for-the-badge&logo=alura&logoColor=white" alt="Alura"/></a>
+<img src="https://img.shields.io/badge/Alura.com.br-1451da?style=for-the-badge&logo=alura&logoColor=white" alt="Alura"/></a>
 </div>  
 <br/> 
 
-## 🐙 GitHub Stats
- <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 22>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italorochaj&theme=discord_old_blurple) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italorochaj&theme=discord_old_blurple&utcOffset=8) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=italorochaj&theme=discord_old_blurple) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italorochaj&theme=discord_old_blurple) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italorochaj&theme=discord_old_blurple)
-  
+<h2 align="center">🐙 GitHub Stats</h2>
+<!--<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22">-->
+<div align="center">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italorochaj&theme=discord_old_blurple">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italorochaj&theme=discord_old_blurple&utcOffset=8)">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=italorochaj&theme=discord_old_blurple">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italorochaj&theme=discord_old_blurple">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italorochaj&theme=discord_old_blurple">
+</div>
+<br/>
+</br>
 <div align="center">Made with 👽 by <a href="https://github.com/italorochaj">Italo Rocha</a>.</div></summary> 
  
 
