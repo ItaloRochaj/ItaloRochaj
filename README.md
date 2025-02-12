@@ -5,13 +5,12 @@
 
 🧑🏻‍💻 Full-Stack Development    
 🎓 Cursando Sistemas de Informação | 6º Período    
-⚡ Gosto de natureza, pets, viagens, lugares, livros, universo tech, e jogar games. 
+⚡ Gosto de natureza, pets, viagens, lugares, livros, universo tech, e jogar games.  
 <br/>
 <br/>
 <br/>
 <br/>  
 <br/>  
-<br/>
 
 <h2 align="center">📫 Conecte-se comigo!</h2>  
 <div align="center">
