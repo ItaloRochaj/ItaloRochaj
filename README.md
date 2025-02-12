@@ -102,11 +102,11 @@
 <h2 align="center">🐙 GitHub Stats</h2>
 <!--<img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="22">-->
 <div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italorochaj&theme=discord_old_blurple">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italorochaj&theme=discord_old_blurple&utcOffset=8)">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=italorochaj&theme=discord_old_blurple">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italorochaj&theme=discord_old_blurple">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italorochaj&theme=discord_old_blurple">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=italorochaj&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=italorochaj&theme=github_dark&utcOffset=8)">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=italorochaj&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=italorochaj&theme=github_dark">
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=italorochaj&theme=github_dark">
 </div>
 <br/>
 </br>
