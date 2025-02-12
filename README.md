@@ -36,6 +36,7 @@
 <a href="https://www.w3schools.com/css/"><img height="30" width="30" src="https://cdn.simpleicons.org/css3" alt="CSS3"/></a>  
 <a href="https://www.javascript.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/javascript" alt="JavaScript"/></a> 
 <a href="https://jquery.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/jquery" alt="jQuery"/></a>
+<a href="https://angular.dev/"><img height="30" width="30" src="https://cdn.simpleicons.org/angular/dc143c"></a>
 <a href="https://www.typescriptlang.org"><img height="30" width="30" src="https://cdn.simpleicons.org/typescript" alt="TypeScript"/></a>
 <a href="https://laravel.com/"><img height="30" width="30" src="https://cdn.simpleicons.org/laravel" alt="Laravel"/></a>  
 <a href="https://vuejs.org/"><img height="30" width="30" src="https://cdn.simpleicons.org/vuedotjs" alt="Vue.js"/></a>    
@@ -109,7 +110,7 @@
 </div>
 <br/>
 </br>
-<div align="center">Made with 👽 by <a href="https://github.com/italorochaj">Italo Rocha</a>.</div></summary> 
+<div align="center">Made by 👽 <a href="https://github.com/italorochaj">Italo Rocha</a>.</div></summary> 
  
 
 <a href="https://github.com/ClaudioMendonca-Eng"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1451da&height=120&section=footer"/></a>
