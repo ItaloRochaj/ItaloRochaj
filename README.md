@@ -92,7 +92,7 @@
 <img src="https://img.shields.io/badge/Credly-1451da?style=for-the-badge&logo=credly&logoColor=white" alt="credly"/></a>
 <a href="https://www.coursera.org/account-profile">
 <img src="https://img.shields.io/badge/Coursera-1451da?style=for-the-badge&logo=coursera&logoColor=white" alt="coursera"/></a>
-<a href="hhttps://www.dio.me/users/ITALOROCHAJ">
+<a href="https://www.dio.me/users/ITALOROCHAJ">
 <img src="https://img.shields.io/badge/Dio.me-1451da?style=for-the-badge&logo=dio&logoColor=white" alt="Dio.me"/></a>  
 <a href="https://cursos.alura.com.br/user/italorochaj">
 <img src="https://img.shields.io/badge/Alura.com.br-1451da?style=for-the-badge&logo=alura&logoColor=white" alt="Alura"/></a>
