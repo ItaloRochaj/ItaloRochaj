@@ -5,6 +5,7 @@
 
 🧑🏻‍💻 Full-Stack Development    
 🎓 Cursando Sistemas de Informação 
+
 ⚡ Gosto de natureza, pets, viagens, lugares, livros, universo tech, e jogar games.  
 <br/>
 <br/>
