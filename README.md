@@ -4,7 +4,7 @@
 🌍 Apaixonado por Tecnologia  
 
 🧑🏻‍💻 Full-Stack Development    
-🎓 Cursando Sistemas de Informação 
+🎓 Cursando Sistemas de Informação <br/>
 ⚡ Gosto de natureza, pets, viagens, lugares, livros, universo tech, e jogar games.  
 <br/>
 <br/>
