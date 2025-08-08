@@ -52,15 +52,11 @@
 <a href="https://spring.io/"><img src="https://skillicons.dev/icons?i=spring" alt="Spring"/></a>        
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>   
 <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="npm"/></a>   
-<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" alt="Python"/></a>
 <a href="https://dotnet.microsoft.com/pt-br/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></a>
 <a href="https://dotnet.microsoft.com/pt-br/"><img src="https://skillicons.dev/icons?i=dotnet" alt=".Net"/></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>  
 <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a> 
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/></a>  
-<a href="https://www.php.net/"><img src="https://skillicons.dev/icons?i=php" alt="PHP"/></a>  
-<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" alt="Flask"/></a>
-<a href="https://www.nginx.com/"><img src="https://skillicons.dev/icons?i=nginx" alt="Nginx"/></a>     
 <a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" alt="R"/></a> 
 </div>
 </td><td valign="top" width="33%">
