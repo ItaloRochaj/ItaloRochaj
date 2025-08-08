@@ -40,7 +40,6 @@
 <a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery"/></a>
 <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/></a>
 <a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular"></a>
-<a href="https://laravel.com/"><img src="https://skillicons.dev/icons?i=laravel" alt="Laravel"/></a>
 <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js"/></a>    
 <a href="https://www.tailwindcss.com/"><img src="https://skillicons.dev/icons?i=tailwindcss" alt="Tailwind CSS"/></a> 
 </div>
@@ -53,7 +52,6 @@
 <a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/></a>   
 <a href="https://www.npmjs.com/"><img src="https://skillicons.dev/icons?i=npm" alt="npm"/></a>   
 <a href="https://dotnet.microsoft.com/pt-br/languages/csharp"><img src="https://skillicons.dev/icons?i=cs" alt="C#"/></a>
-<a href="https://dotnet.microsoft.com/pt-br/"><img src="https://skillicons.dev/icons?i=dotnet" alt=".Net"/></a>
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>  
 <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a> 
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/></a>  
