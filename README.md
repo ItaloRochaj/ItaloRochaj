@@ -66,12 +66,10 @@
 <a href="https://www.docker.com/"><img src="https://skillicons.dev/icons?i=docker" alt="Docker" /></a>  
 <a href="https://kubernetes.io/"><img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" /></a>  
 <a href="https://aws.amazon.com/pt/?nc2=h_lg"><img src="https://skillicons.dev/icons?i=amazonwebservices" alt="AWS" /></a> 
-<a href="https://www.heroku.com/"><img src="https://skillicons.dev/icons?i=heroku" alt="Heroku" /></a>  
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" alt="Git" /></a>  
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>   
 <a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
 <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>     
-<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode" alt="vs code" /></a>
  <a href="https://www.jetbrains.com/pt-br/idea/"><img src="https://skillicons.dev/icons?i=idea" alt="intelij" /></a>
 <a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" /></a>
 <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
