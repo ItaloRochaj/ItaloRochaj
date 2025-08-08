@@ -37,7 +37,6 @@
 <a href="https://www.w3schools.com/css/"><img src="https://skillicons.dev/icons?i=css" alt="CSS3"/></a>  
 <a href="https://www.javascript.com/"><img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/></a>
  <a href="https://getbootstrap.com/"><img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap"/></a>
-<a href="https://jquery.com/"><img src="https://skillicons.dev/icons?i=jquery" alt="jQuery"/></a>
 <a href="https://www.typescriptlang.org"><img src="https://skillicons.dev/icons?i=typescript" alt="TypeScript"/></a>
 <a href="https://angular.dev/"><img src="https://skillicons.dev/icons?i=angular"></a>
 <a href="https://vuejs.org/"><img src="https://skillicons.dev/icons?i=vue" alt="Vue.js"/></a>    
@@ -55,7 +54,6 @@
 <a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/></a>  
 <a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB"/></a> 
 <a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL"/></a>  
-<a href="https://www.r-project.org/"><img src="https://skillicons.dev/icons?i=r" alt="R"/></a> 
 </div>
 </td><td valign="top" width="33%">
 
@@ -68,8 +66,6 @@
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" alt="GitHub" /></a>   
 <a href="https://about.gitlab.com/"><img src="https://skillicons.dev/icons?i=gitlab" alt="GitLab" /></a>
 <a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" alt="Figma" /></a>     
- <a href="https://www.jetbrains.com/pt-br/idea/"><img src="https://skillicons.dev/icons?i=idea" alt="intelij" /></a>
-<a href="https://www.notion.so/"><img src="https://skillicons.dev/icons?i=notion" alt="Notion" /></a>
 <a href="https://www.linux.org/"><img src="https://skillicons.dev/icons?i=linux" alt="Linux"/></a>
 </div>
 </td></tr>
